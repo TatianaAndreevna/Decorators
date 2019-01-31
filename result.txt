@@ -1,0 +1,12 @@
+2019-01-31 20:54:24.786275 my_function ('x', 'y', 'z') {'multi': 5} ('x', 'y', 'z', 'x', 'y', 'z', 'x', 'y', 'z', 'x', 'y', 'z', 'x', 'y', 'z')
+2019-01-31 20:54:27.328420 my_function ('x', 'y', 'z') {'multi': 5} ('x', 'y', 'z', 'x', 'y', 'z', 'x', 'y', 'z', 'x', 'y', 'z', 'x', 'y', 'z')
+2019-01-31 20:54:28.270474 my_function ('x', 'y', 'z') {'multi': 5} ('x', 'y', 'z', 'x', 'y', 'z', 'x', 'y', 'z', 'x', 'y', 'z', 'x', 'y', 'z')
+2019-01-31 20:54:30.276589 my_function ('x', 'y', 'z') {'multi': 5} ('x', 'y', 'z', 'x', 'y', 'z', 'x', 'y', 'z', 'x', 'y', 'z', 'x', 'y', 'z')
+2019-01-31 20:54:31.162640 my_function ('x', 'y', 'z') {'multi': 5} ('x', 'y', 'z', 'x', 'y', 'z', 'x', 'y', 'z', 'x', 'y', 'z', 'x', 'y', 'z')
+2019-01-31 20:54:39.750131 my_function ('x', 'y', 'z') {'multi': 1} ('x', 'y', 'z')
+2019-01-31 20:54:41.394225 my_function ('x', 'y', 'z') {'multi': 1} ('x', 'y', 'z')
+2019-01-31 20:54:44.003374 my_function ('x', 'y', 'z') {'multi': 6} ('x', 'y', 'z', 'x', 'y', 'z', 'x', 'y', 'z', 'x', 'y', 'z', 'x', 'y', 'z', 'x', 'y', 'z')
+2019-01-31 20:54:50.489745 my_function ('x', 'y', 'z') {'multi': 6} ('x', 'y', 'z', 'x', 'y', 'z', 'x', 'y', 'z', 'x', 'y', 'z', 'x', 'y', 'z', 'x', 'y', 'z')
+2019-01-31 20:54:50.491745 my_generators ('c_file.txt',) {} <generator object my_generators at 0x00EA1E70>
+2019-01-31 20:54:53.087894 my_function ('x', 'y', 'z') {'multi': 6} ('x', 'y', 'z', 'x', 'y', 'z', 'x', 'y', 'z', 'x', 'y', 'z', 'x', 'y', 'z', 'x', 'y', 'z')
+2019-01-31 20:54:53.089894 my_generators ('c_file.txt',) {} <generator object my_generators at 0x00E81E30>
